@@ -10,9 +10,9 @@ $ pkg install python
 
 $ pkg install git
 
-$ git clone https://github.com/Hacker-UZ/Userbot
+$ git clone https://github.com/Fazliddinxudoyberdiyevich/Userbot_new
 
-$ cd Userbot
+$ cd Userbot_new
 
 $ python setup.py
 
@@ -20,6 +20,6 @@ $ python main.py
 
 # RESTART
 
-$ cd Userbot
+$ cd Userbot_new
 
 $ python main.py
