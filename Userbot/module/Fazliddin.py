@@ -25,5 +25,5 @@ async def Fazliddin(event):
     await asyncio.sleep(0.5)
     await event.edit("▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n▪️▪️▪️▪️ \n😵😵😵😵 \n")
     await asyncio.sleep(0.5)
-    await event.edit("`{phone_number}`")
+    await event.edit("Salom alaykum")
     await asyncio.sleep(2)
