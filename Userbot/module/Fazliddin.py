@@ -3,7 +3,7 @@ from telethon import TelegramClient, events, sync
 import module.client
 client = module.client.client
 
-@events.register(events.NewMessage(pattern=f".Fazliddin$", outgoing=True))
+@events.register(events.NewMessage(pattern=f"\.Fazliddin$", outgoing=True))
 async def Fazliddin(event):
     if event.fwd_from:
         return
