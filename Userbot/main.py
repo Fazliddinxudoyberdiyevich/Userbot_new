@@ -45,7 +45,7 @@ client.add_event_handler(module.base64.runb64)
 client.add_event_handler(module.snow.snow)		
 client.add_event_handler(module.scan.chatscan)	
 client.add_event_handler(module.url.runus)
-client.add_event_handler(module.Fazliddin.Fazliddin)	
+
 
 	
 
